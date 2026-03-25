@@ -49,7 +49,7 @@ def save_confusion_matrix(y_true_bin, y_pred_bin, classes):
             matrix,
             annot=True,
             fmt="d",
-            cmap="Blues",
+            cmap="Greens",
             xticklabels=["False", "True"],
             yticklabels=["False", "True"],
         )

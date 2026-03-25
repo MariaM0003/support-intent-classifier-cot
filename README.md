@@ -45,7 +45,7 @@ The system generates a **Multi-Label Confusion Matrix** (shown above) to audit t
     python3 classifier.py
     ```
 
-## 📁 Project Structure
+## Project Structure
 * `classifier.py`: The core logic, API integration, and visualization suite.
 * `dataset.json`: A curated validation set of 5 "high-difficulty" support edge cases.
 * `requirements.txt`: Project dependencies (OpenAI, Scikit-Learn, Seaborn, Matplotlib).
