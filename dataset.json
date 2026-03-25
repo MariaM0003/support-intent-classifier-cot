@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Customer: yo, my screen is flickering like crazy. Agent: Have you tried a hard reset? Customer: yeah, still toast. honestly if this isnt fixed i want my money back.",
+    "labels": ["Technical_Issue", "Refund_Request"]
+  },
+  {
+    "text": "Customer: i cant log in. says wrong pass. Agent: I can send a reset link. Customer: wait nvm, i found my password. but can u tell me when my subscription expires?",
+    "labels": ["Account_Inquiry"]
+  },
+  {
+    "text": "Customer: my order #123 says delivered but i dont see it. Agent: Let me check the GPS. Customer: actually found it at the side door. but wait, the box is empty!! i need a new one or a refund.",
+    "labels": ["Order_Status", "Refund_Request"]
+  },
+  {
+    "text": "Customer: hi, i need to change my email address. also the app keeps crashing on the login page.",
+    "labels": ["Account_Inquiry", "Technical_Issue"]
+  },
+  {
+    "text": "Customer: i was charged $50 but my plan is $20. what gives? Agent: I see the overcharge. Customer: yeah, fix that and just cancel my whole account. im done.",
+    "labels": ["Refund_Request", "Account_Inquiry"]
+  }
+]
